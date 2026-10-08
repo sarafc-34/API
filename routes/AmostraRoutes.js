@@ -19,3 +19,4 @@ router.get("/:indice", buscarAmostraPorId)
 
 export default router;
 //torna publica a rota dentro do backend
+
