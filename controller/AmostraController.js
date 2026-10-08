@@ -1,5 +1,5 @@
 import { Amostra } from "../model/Amostra.js";
-import { cadastrar, listar, buscarPorId, atualizar, deletar } from "../repository/amostraRepository.js"
+import { cadastrar, listar, buscarPorId, atualizar, deletar } from "../repository/AmostraRepository.js"
 
 
 export function cadastrarAmostra(req, res){
